@@ -26,7 +26,7 @@ class ProductCard extends Component {
 							id='newbtn'
 							href={product.url}
 							style={{
-								backgroundColor: 'tomato',
+								backgroundColor: '#ff3399',
 								color: 'black',
 								textAlign: 'center',
 								fontWeight: 'bold',
