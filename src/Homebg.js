@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 require('materialize-css/dist/css/materialize.min.css');
 
 export class Homebg extends React.Component {
@@ -11,11 +12,11 @@ export class Homebg extends React.Component {
 					<h5 id='subhead'>Adorn yourself</h5>
 
 					<div className='row'>
-						<a id='solid-btn' role='button' href='#shop'>
+						<a id='solid-btn' role='button' href='/'>
 							Shop Now
 						</a>
 
-						<a id='clear-btn' href='#about'>
+						<a id='clear-btn' href='/about'>
 							Learn More
 						</a>
 					</div>

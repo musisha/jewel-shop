@@ -4,7 +4,8 @@
 		"name": "Gemstone",
 		"description": "Gemstone Fashion Necklace",
 		"price": "19.99",
-		"imageUrl": "https://i.imgur.com/0nZpxIj.jpg"
+		"imageUrl": "https://i.imgur.com/0nZpxIj.jpg",
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMTIsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "2",

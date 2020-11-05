@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import FontAwesome from 'react-fontawesome';
 import products from './products.json';
 import { addToCart } from './cartItems';
+import { Button } from 'antd';
 require('materialize-css/dist/css/materialize.min.css');
 
 class ProductCard extends Component {
@@ -23,8 +24,14 @@ class ProductCard extends Component {
 						<a
 							className='btn-floating halfway-fab'
 							id='newbtn'
-							onClick={this.addToCart.bind(this)}>
-							<FontAwesome name='cart-plus' size='2x' />
+							href={product.url}
+							style={{
+								backgroundColor: 'tomato',
+								color: 'black',
+								textAlign: 'center',
+								fontWeight: 'bold',
+							}}>
+							Buy
 						</a>
 					</div>
 					<div className='card-content'>

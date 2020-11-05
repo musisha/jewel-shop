@@ -8,7 +8,13 @@ import { Homebg } from './Homebg';
 export class Landing extends React.Component {
 	render() {
 		const productCards = products.map((product) => (
-			<ProductCard productId={product.id} key={product.id} />
+			<React.Fragment>
+				<ProductCard
+					productId={product.id}
+					key={product.id}
+					url={product.url}
+				/>
+			</React.Fragment>
 		));
 
 		return (
@@ -18,15 +24,15 @@ export class Landing extends React.Component {
 				</div>
 
 				<div className='container'>
-					<div className='row'>
+					{/* <div className='row'>
 						<About />
-					</div>
+					</div> */}
 
 					<div className='row'>{productCards}</div>
 
-					<Link id='cart-btn' role='button' to='/cart'>
-						Go to Cart
-					</Link>
+					{/* <Link id='cart-btn' role='button' to='/cart'>
+						go to cart
+					</Link> */}
 				</div>
 			</div>
 		);

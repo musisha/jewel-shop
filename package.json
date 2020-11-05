@@ -7,12 +7,16 @@
 		"@testing-library/react": "^9.5.0",
 		"@testing-library/user-event": "^7.2.1",
 		"antd": "^4.8.0",
+		"axios": "^0.21.0",
 		"materialize-css": "^0.100.2",
 		"react": "^16.13.1",
 		"react-dom": "^16.13.1",
 		"react-fontawesome": "^1.6.1",
 		"react-router-dom": "^5.2.0",
-		"react-scripts": "3.4.3"
+		"react-scripts": "3.4.3",
+		"style-loader": "^0.21.0",
+		"url-loader": "^1.0.1",
+		"css-loader": "^0.28.11"
 	},
 	"scripts": {
 		"start": "react-scripts start",
