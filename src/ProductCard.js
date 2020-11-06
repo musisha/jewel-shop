@@ -20,6 +20,9 @@ class ProductCard extends Component {
 				<div className='card'>
 					<div className='card-image'>
 						<img src={product.imageUrl} />
+						<h4 style={{ backgroundColor: 'cyan', color: 'black' }}>
+							{product.price}
+						</h4>
 
 						<a
 							className='btn-floating halfway-fab'
