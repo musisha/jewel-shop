@@ -3,48 +3,48 @@
 		"id": "1",
 		"name": "Gemstone",
 		"description": "Gemstone Fashion Necklace",
-		"price": "19.99",
+		"price": "$2500",
 		"imageUrl": "https://i.imgur.com/0nZpxIj.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMTIsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMTksICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "2",
 		"name": "Earrings ",
 		"description": "Labodrite Earrings",
-		"price": "6.99",
+		"price": "$5000",
 		"imageUrl": "https://i.imgur.com/TqLCsmN.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMTcsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMjAsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "3",
 		"name": "Precious stones",
 		"description": "Precious stones bracelet",
-		"price": "10.99",
+		"price": "10000",
 		"imageUrl": "https://i.imgur.com/2Ia0wwv.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMTcsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMjEsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "4",
 		"name": "Charoite Beads",
 		"description": "Charoite Beads Bracelet",
-		"price": "8.99",
+		"price": "7500",
 		"imageUrl": "https://i.imgur.com/zw2ngev.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMTYsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMjIsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "5",
 		"name": "Multi-color Beads",
 		"description": "Multi-color beads necklace",
-		"price": "5.99",
+		"price": "8000",
 		"imageUrl": "https://i.imgur.com/8T8khIl.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMTUsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMjMsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "6",
 		"name": "Zulu Bracelet",
 		"description": "Colorful Zulu Bracelet",
-		"price": "5.99",
+		"price": "10000",
 		"imageUrl": "https://i.imgur.com/LL1ZQVC.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMTIsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMjQsICJlbnYiOiAicCJ9"
 	}
 ]
