@@ -33,7 +33,7 @@ class ProductCard extends Component {
 							}}>
 							Buy
 						</a>
-						<b>{product.price}</b>
+						<p>{product.price}</p>
 					</div>
 					<div className='card-content'>
 						<span className='card-title'>{product.name}</span>
