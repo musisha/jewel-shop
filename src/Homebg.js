@@ -3,6 +3,10 @@ import { Link } from 'react-router-dom';
 require('materialize-css/dist/css/materialize.min.css');
 
 export class Homebg extends React.Component {
+	onclick = () => {
+		this.props.history.push('/');
+		window.location.reload();
+	};
 	render() {
 		return (
 			<div id='banner'>
@@ -12,7 +16,7 @@ export class Homebg extends React.Component {
 					<h5 id='subhead'>Adorn yourself</h5>
 
 					<div className='row'>
-						<a id='solid-btn' role='button' href='/'>
+						<a id='solid-btn' role='button' onClick={this.onclick}>
 							Shop Now
 						</a>
 
