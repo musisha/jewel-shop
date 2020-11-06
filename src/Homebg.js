@@ -4,7 +4,6 @@ require('materialize-css/dist/css/materialize.min.css');
 
 export class Homebg extends React.Component {
 	onclick = () => {
-		this.props.history.push('/');
 		window.location.reload();
 	};
 	render() {
@@ -16,7 +15,11 @@ export class Homebg extends React.Component {
 					<h5 id='subhead'>Adorn yourself</h5>
 
 					<div className='row'>
-						<a id='solid-btn' role='button' onClick={this.onclick}>
+						<a
+							id='solid-btn'
+							role='button'
+							href='/'
+							onClick={this.onclick}>
 							Shop Now
 						</a>
 
