@@ -19,7 +19,7 @@
 		"id": "3",
 		"name": "Precious stones",
 		"description": "Precious stones bracelet",
-		"price": "10000",
+		"price": "$10000",
 		"imageUrl": "https://i.imgur.com/2Ia0wwv.jpg",
 		"url": "https://link.sparco.io/eyJsaWQiOiAxMjEsICJlbnYiOiAicCJ9"
 	},
@@ -27,7 +27,7 @@
 		"id": "4",
 		"name": "Charoite Beads",
 		"description": "Charoite Beads Bracelet",
-		"price": "7500",
+		"price": "$7500",
 		"imageUrl": "https://i.imgur.com/zw2ngev.jpg",
 		"url": "https://link.sparco.io/eyJsaWQiOiAxMjIsICJlbnYiOiAicCJ9"
 	},
@@ -35,7 +35,7 @@
 		"id": "5",
 		"name": "Multi-color Beads",
 		"description": "Multi-color beads necklace",
-		"price": "8000",
+		"price": "$8000",
 		"imageUrl": "https://i.imgur.com/8T8khIl.jpg",
 		"url": "https://link.sparco.io/eyJsaWQiOiAxMjMsICJlbnYiOiAicCJ9"
 	},
@@ -43,7 +43,7 @@
 		"id": "6",
 		"name": "Zulu Bracelet",
 		"description": "Colorful Zulu Bracelet",
-		"price": "10000",
+		"price": "$10000",
 		"imageUrl": "https://i.imgur.com/LL1ZQVC.jpg",
 		"url": "https://link.sparco.io/eyJsaWQiOiAxMjQsICJlbnYiOiAicCJ9"
 	}
