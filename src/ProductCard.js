@@ -33,9 +33,7 @@ class ProductCard extends Component {
 							}}>
 							Buy
 						</a>
-						<h4 style={{ backgroundColor: 'cyan', color: 'black' }}>
-							{product.price}
-						</h4>
+						<b>{product.price}</b>
 					</div>
 					<div className='card-content'>
 						<span className='card-title'>{product.name}</span>
