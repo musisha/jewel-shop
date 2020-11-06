@@ -33,7 +33,9 @@ class ProductCard extends Component {
 							}}>
 							Buy
 						</a>
-						<p>{product.price}</p>
+						<p style={{ fontWeight: 'bolder', marginLeft: '10px' }}>
+							{product.price}
+						</p>
 					</div>
 					<div className='card-content'>
 						<span className='card-title'>{product.name}</span>
