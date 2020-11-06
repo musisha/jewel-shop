@@ -12,34 +12,39 @@
 		"name": "Earrings ",
 		"description": "Labodrite Earrings",
 		"price": "6.99",
-		"imageUrl": "https://i.imgur.com/TqLCsmN.jpg"
+		"imageUrl": "https://i.imgur.com/TqLCsmN.jpg",
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMTcsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "3",
 		"name": "Precious stones",
 		"description": "Precious stones bracelet",
 		"price": "10.99",
-		"imageUrl": "https://i.imgur.com/2Ia0wwv.jpg"
+		"imageUrl": "https://i.imgur.com/2Ia0wwv.jpg",
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMTcsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "4",
 		"name": "Charoite Beads",
 		"description": "Charoite Beads Bracelet",
 		"price": "8.99",
-		"imageUrl": "https://i.imgur.com/zw2ngev.jpg"
+		"imageUrl": "https://i.imgur.com/zw2ngev.jpg",
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMTYsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "5",
 		"name": "Multi-color Beads",
 		"description": "Multi-color beads necklace",
 		"price": "5.99",
-		"imageUrl": "https://i.imgur.com/8T8khIl.jpg"
+		"imageUrl": "https://i.imgur.com/8T8khIl.jpg",
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMTUsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "6",
 		"name": "Zulu Bracelet",
 		"description": "Colorful Zulu Bracelet",
 		"price": "5.99",
-		"imageUrl": "https://i.imgur.com/LL1ZQVC.jpg"
+		"imageUrl": "https://i.imgur.com/LL1ZQVC.jpg",
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMTIsICJlbnYiOiAicCJ9"
 	}
 ]
