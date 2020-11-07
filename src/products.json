@@ -64,6 +64,14 @@
 		"url": "https://link.sparco.io/eyJsaWQiOiAxMjUsICJlbnYiOiAicCJ9"
 	},
 	{
+		"id": "11",
+		"name": "Gold chain",
+		"description": "100% gold and diamond rings",
+		"price": "$25000",
+		"imageUrl": "https://images.unsplash.com/photo-1596187262703-c13003fbfac1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMjgsICJlbnYiOiAicCJ9"
+	},
+	{
 		"id": "9",
 		"name": "Gold and diamond rings",
 		"description": "100% gold and diamond rings",
@@ -79,14 +87,7 @@
 		"imageUrl": "https://images.unsplash.com/photo-1512163143273-bde0e3cc7407?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
 		"url": "https://link.sparco.io/eyJsaWQiOiAxMjcsICJlbnYiOiAicCJ9"
 	},
-	{
-		"id": "11",
-		"name": "Gold and diamond rings",
-		"description": "100% gold and diamond rings",
-		"price": "$25000",
-		"imageUrl": "https://images.unsplash.com/photo-1596187262703-c13003fbfac1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjgsICJlbnYiOiAicCJ9"
-	},
+
 	{
 		"id": "12",
 		"name": "diamond watch",
