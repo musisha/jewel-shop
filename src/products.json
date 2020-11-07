@@ -56,19 +56,19 @@
 		"url": "https://link.sparco.io/eyJsaWQiOiAxMjQsICJlbnYiOiAicCJ9"
 	},
 	{
-		"id": "8",
-		"name": "Gold and diamond ringss",
-		"description": "100% gold and diamond rings",
-		"price": "$15000",
-		"imageUrl": "https://images.unsplash.com/photo-1579838333277-8b1b1f9d7856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjUsICJlbnYiOiAicCJ9"
-	},
-	{
 		"id": "9",
 		"name": "Gold Studs",
 		"description": "Labodrite Earrings",
 		"price": "$14000",
 		"imageUrl": "https://images.unsplash.com/photo-1561172478-a203d9c8290e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMjUsICJlbnYiOiAicCJ9"
+	},
+	{
+		"id": "8",
+		"name": "Gold and diamond rings",
+		"description": "100% gold and diamond rings",
+		"price": "$15000",
+		"imageUrl": "https://images.unsplash.com/photo-1579838333277-8b1b1f9d7856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
 		"url": "https://link.sparco.io/eyJsaWQiOiAxMjUsICJlbnYiOiAicCJ9"
 	}
 ]
