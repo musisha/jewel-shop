@@ -3,39 +3,39 @@
 		"id": "1",
 		"name": "Gemstone",
 		"description": "Gemstone Fashion Necklace",
-		"price": "$2500",
+		"price": "k500",
 		"imageUrl": "https://i.imgur.com/0nZpxIj.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMTksICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMjksICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "2",
 		"name": "Earrings ",
 		"description": "Labodrite Earrings",
-		"price": "$5000",
+		"price": "k800",
 		"imageUrl": "https://i.imgur.com/TqLCsmN.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjAsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMzAsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "3",
 		"name": "Precious stones",
 		"description": "Precious stones bracelet",
-		"price": "$10000",
+		"price": "k10000",
 		"imageUrl": "https://i.imgur.com/2Ia0wwv.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjEsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMzEsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "4",
 		"name": "Charoite Beads",
 		"description": "Charoite Beads Bracelet",
-		"price": "$7500",
+		"price": "k7500",
 		"imageUrl": "https://i.imgur.com/zw2ngev.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjIsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMzIsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "5",
 		"name": "Multi-color Beads",
 		"description": "Multi-color beads necklace",
-		"price": "$8000",
+		"price": "k8200",
 		"imageUrl": "https://i.imgur.com/8T8khIl.jpg",
 		"url": "https://link.sparco.io/eyJsaWQiOiAxMjMsICJlbnYiOiAicCJ9"
 	},
@@ -43,57 +43,57 @@
 		"id": "6",
 		"name": "Zulu Bracelet",
 		"description": "Colorful Zulu Bracelet",
-		"price": "$10000",
+		"price": "k1000",
 		"imageUrl": "https://i.imgur.com/LL1ZQVC.jpg",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjQsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMzQsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "10",
 		"name": "Gold and diamond rings",
 		"description": "100% gold and diamond rings",
-		"price": "$15000",
+		"price": "k20000",
 		"imageUrl": "https://images.unsplash.com/photo-1579838333277-8b1b1f9d7856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjUsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMzUsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "11",
 		"name": "Gold and diamond rings",
 		"description": "100% gold and diamond rings",
-		"price": "$20000",
+		"price": "k68000",
 		"imageUrl": "https://images.unsplash.com/photo-1512163143273-bde0e3cc7407?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjcsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMzYsICJlbnYiOiAicCJ9"
 	},
 
 	{
 		"id": "12",
 		"name": "diamond watch",
 		"description": "100% pure diamond watch. The best of watches",
-		"price": "$20000",
+		"price": "k99000",
 		"imageUrl": "https://images.unsplash.com/photo-1570943991418-ffa08d952b16?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjcsICJlbnYiOiAicCJ9"
-	}
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMzcsICJlbnYiOiAicCJ9"
+	},
 	{
 		"id": "7",
 		"name": "Earring",
 		"description": "Gem earrings",
-		"price": "$10000",
+		"price": "k15800",
 		"imageUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjQsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMzgsICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "8",
 		"name": "Gold Studs",
 		"description": "Labodrite Earrings",
-		"price": "$14000",
+		"price": "k51000",
 		"imageUrl": "https://images.unsplash.com/photo-1561172478-a203d9c8290e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjUsICJlbnYiOiAicCJ9"
+		"url": "https://link.sparco.io/eyJsaWQiOiAxMzksICJlbnYiOiAicCJ9"
 	},
 	{
 		"id": "9",
 		"name": "Gold chain",
 		"description": "First grade gold",
-		"price": "$25000",
+		"price": "k93000",
 		"imageUrl": "https://images.unsplash.com/photo-1596187262703-c13003fbfac1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
-		"url": "https://link.sparco.io/eyJsaWQiOiAxMjgsICJlbnYiOiAicCJ9"
-	},
+		"url": "https://link.sparco.io/eyJsaWQiOiAxNDAsICJlbnYiOiAicCJ9"
+	}
 ]
